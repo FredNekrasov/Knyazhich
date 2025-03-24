@@ -29,3 +29,5 @@ rootProject.name = "Knyazhich"
 include(":app")
 
 include(":core:ui")
+
+include(":features:auth:api")
